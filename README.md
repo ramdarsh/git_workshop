@@ -1,2 +1,2 @@
 # git_workshop
-git sample repo to learn git
+Sample repo to learn git
